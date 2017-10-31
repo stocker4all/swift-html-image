@@ -1,0 +1,24 @@
+{
+    "name": "stocker4all/swift-html-image",
+    "description": "Embeds images in the html of a Swift Mailer Message body",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mathias Stocker",
+            "email": "mathias@stocker4all.ch"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "S4A\\": "src"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.4"
+    }
+}
