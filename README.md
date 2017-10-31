@@ -50,7 +50,7 @@ You can use [Composer](http://getcomposer.org/) to add the [package](https://pac
 ```json
 {
   "require": {
-    "stocker4all/swift-html-image": "~0.1"
+    "stocker4all/swift-html-image": "~0.3"
   }
 }
 ```
