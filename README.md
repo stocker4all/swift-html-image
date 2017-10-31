@@ -1,5 +1,7 @@
 # swift-html-image
 
+[![Build Status](https://travis-ci.org/stocker4all/swift-html-image.svg?branch=master)](https://travis-ci.org/stocker4all/swift-html-image.svg?branch=master) [![Latest Stable Version](https://poser.pugx.org/stocker4all/swift-html-image/version)](https://packagist.org/packages/stocker4all/swift-html-image) [![License](https://poser.pugx.org/stocker4all/swift-html-image/license)](https://packagist.org/packages/stocker4all/swift-html-image) [![Total Downloads](https://poser.pugx.org/stocker4all/swift-html-image/downloads.png)](https://packagist.org/packages/stocker4all/swift-html-image)
+
 `swift-html-image` is a very simple solution to auto-embed image sources with a relative path inside html for further use in Swift Mailer Message.
 
 For example:
