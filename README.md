@@ -24,7 +24,7 @@ Will be converted into something similar like this:
 ```html
 
 <html>
-<title>stocker4all/swift-html-image</title>
+<title>swift-html-image</title>
 <body>
   <h1>swift-html-image</h1>
 
